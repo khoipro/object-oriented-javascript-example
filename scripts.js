@@ -50,3 +50,9 @@ var contact = {
     console.log(this.firstName + " " + this.lastName);
   }
 }
+
+//Constructor
+
+function Monster(name) {
+  this.name = name
+}
